@@ -284,11 +284,11 @@ body {
 .dumplings-video::before {
   content: "";
   position: absolute;
-  top: 0;
+  top: 1%;
   right: 0;
-  bottom: 0;
+  bottom: -8%;
   left: -4%;
-  background: url(../assets/images/png/VideoSection.png) no-repeat 50% -11%;
+  background: url(../assets/images/png/VideoSection.png) no-repeat 50% -100%;
 }
 .dumplings-video__header {
   background: #fff;
@@ -808,11 +808,11 @@ body {
   }
 
   .dumplings-video::before {
-    top: 4%;
+    top: 0%;
     right: 0;
-    bottom: -10%;
+    bottom: -9%;
     left: 0;
-    background: url(../assets/images/png/middle/VideoBg.png) no-repeat 50% 10%;
+    background: url(../assets/images/png/middle/VideoBg.png) no-repeat 50% 60%;
   }
   .dumplings-video__header {
     padding: 76px 0 112px;
